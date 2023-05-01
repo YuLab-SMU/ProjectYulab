@@ -4,6 +4,8 @@ If you want to participate in our development and receive our guidance, you can 
 
 If you want to join us (e.g., as a graduate student), getting involved is a great starting point.
 
+----
+
 
 我们会在这里发一些issues，通常是一些编程量不会太大的需求。
 
