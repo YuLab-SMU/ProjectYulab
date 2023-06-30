@@ -4,7 +4,7 @@ If you want to participate in our development and receive our guidance, you can 
 
 If you want to join us (e.g., as a graduate student), getting involved is a great starting point.
 
-PS: Closed issues are usually problems that have already been solved with good solutions, and can be used as learning materials. Of course, if you have a better implementation, please feel free to give us feedback. 
+PS: [Closed issues](https://github.com/YuLab-SMU/ProjectYulab/issues?q=is%3Aissue+is%3Aclosed) are usually problems that have already been solved with good solutions, and can be used as learning materials. Of course, if you have a better implementation, please feel free to give us feedback. 
 
 
 ----
@@ -16,4 +16,4 @@ PS: Closed issues are usually problems that have already been solved with good s
 
 如果想加入我们（如读研究生），那么[参与进来是个很好的开始](https://mp.weixin.qq.com/s/5JkFvfZG9uGf6NIQlx4Eag)
 
-PS: 已经关闭的issues，会是一些已经有比较好解决方案的问题，可以做为学习的资料，当然如果你有更好的实习，欢迎反馈给我们。
+PS: [已经关闭的issues](https://github.com/YuLab-SMU/ProjectYulab/issues?q=is%3Aissue+is%3Aclosed)，会是一些已经有比较好解决方案的问题，可以做为学习的资料，当然如果你有更好的实习，欢迎反馈给我们。
