@@ -4,6 +4,9 @@ If you want to participate in our development and receive our guidance, you can 
 
 If you want to join us (e.g., as a graduate student), getting involved is a great starting point.
 
+PS: Closed issues are usually problems that have already been solved with good solutions, and can be used as learning materials. Of course, if you have a better implementation, please feel free to give us feedback. 
+
+
 ----
 
 
@@ -13,3 +16,4 @@ If you want to join us (e.g., as a graduate student), getting involved is a grea
 
 如果想加入我们（如读研究生），那么参与进来是个很好的开始。
 
+PS: 已经关闭的issues，会是一些已经有比较好解决方案的问题，可以做为学习的资料，当然如果你有更好的实习，欢迎反馈给我们。
