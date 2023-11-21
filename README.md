@@ -17,6 +17,6 @@ If you participate in this project and submit your code to us, it also means tha
 
 如果想加入我们（如读研究生），那么[参与进来是个很好的开始](https://mp.weixin.qq.com/s/5JkFvfZG9uGf6NIQlx4Eag)
 
-[已经关闭的issues](https://github.com/YuLab-SMU/ProjectYulab/issues?q=is%3Aissue+is%3Aclosed)，会是一些已经有比较好解决方案的问题，可以做为学习的资料，当然如果你有更好的实习，欢迎反馈给我们。
+[已经关闭的issues](https://github.com/YuLab-SMU/ProjectYulab/issues?q=is%3Aissue+is%3Aclosed)，会是一些已经有比较好解决方案的问题，可以做为学习的资料，当然如果你有更好的实现，欢迎反馈给我们。
 
 如果你参加了这个项目并向我们提交了代码，这同时也表明你同意我们使用你的代码。
